@@ -24,7 +24,7 @@ Here is the interactive operational dashboard designed to guide supply chain man
 ![Power BI Dashboard Overview](https://github.com/AysegullYavuz/Ecommerce-Supply-Chain-Forecasting/blob/main/ecommerce_supply_chain_project/powerb%C4%B1.png?raw=true)
 
 ### 📈 Detailed Sales Trends & Key Performance Indicators (KPIs)
-![Power BI Dashboard Analytics](powerbı2.png)
+![Power BI Dashboard Analytics](https://github.com/AysegullYavuz/Ecommerce-Supply-Chain-Forecasting/blob/main/ecommerce_supply_chain_project/powerb%C4%B12.png?raw=true)
 
 ---
 
